@@ -103,3 +103,6 @@
     top: 40%;
     left: 40%;
 }
+.cont a{
+  text-decoration: none;
+}
