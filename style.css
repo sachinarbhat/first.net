@@ -101,7 +101,7 @@
 .cont{
     position: relative;
     top: 40%;
-    left: 40%;
+text-align: center;
 }
 .cont a{
   text-decoration: none;
